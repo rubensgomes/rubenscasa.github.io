@@ -1,2 +1,2 @@
 # rubenscasa.github.io
-Used by GitHub Actions to deploy rubenscasa.com.site files. This project drives the live "rubenscasa.com" web site
+rubenscasa.github.io is used by GitHub Actions to deploy rubenscasa.cosa.site files. This project drives the live "rubenscasa.como" web site.
